@@ -2000,20 +2000,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/kingsley/.nuget/packages/": {}
+    "/Users/vera/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/TrialAss2.Android.csproj",
+      "projectUniqueName": "/Users/vera/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2.Android/TrialAss2.Android.csproj",
       "projectName": "TrialAss2.Android",
-      "projectPath": "/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/TrialAss2.Android.csproj",
-      "packagesPath": "/Users/kingsley/.nuget/packages/",
-      "outputPath": "/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/",
+      "projectPath": "/Users/vera/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2.Android/TrialAss2.Android.csproj",
+      "packagesPath": "/Users/vera/.nuget/packages/",
+      "outputPath": "/Users/vera/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/kingsley/.config/NuGet/NuGet.Config"
+        "/Users/vera/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
@@ -2024,8 +2024,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/kingsley/Desktop/TrialAss2/TrialAss2/TrialAss2.csproj": {
-              "projectPath": "/Users/kingsley/Desktop/TrialAss2/TrialAss2/TrialAss2.csproj"
+            "/Users/vera/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj": {
+              "projectPath": "/Users/vera/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj"
             }
           }
         }

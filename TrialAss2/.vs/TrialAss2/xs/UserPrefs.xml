@@ -1,25 +1,19 @@
 ﻿<Properties StartupConfiguration="{162F57BD-4E40-470B-A4D0-11FF76EA4430}|Default">
-  <MonoDevelop.Ide.ItemProperties.TrialAss2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A02B4831-C23A-4C63-BD45-BAEAE1C53D08" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TrialAss2/Details.xaml.cs">
     <Files>
-      <File FileName="TrialAss2/Details.xaml.cs" Line="72" Column="43" />
-      <File FileName="TrialAss2/MainPage.xaml" Line="19" Column="32" NotebookId="1" />
+      <File FileName="TrialAss2/Details.xaml.cs" Line="196" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TrialAss2" expanded="True">
-            <Node name="TrialAss2" expanded="True">
-              <Node name="Details.xaml" expanded="True">
-                <Node name="Details.xaml.cs" selected="True" />
-              </Node>
-            </Node>
+            <Node name="TrialAss2" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.TrialAss2.Android PreferredExecutionTarget="Android.my_device1" />
+  <MonoDevelop.Ide.ItemProperties.TrialAss2.Android PreferredExecutionTarget="Android.1" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../../ConsoleApp1/Deposit.cs" line="17" offsetX="-1" offsetY="-1" expression="dm.Money" liveUpdate="False" />
     <Watch file="../../../../ConsoleApp1/Deposit.cs" line="11" offsetX="-1" offsetY="-1" expression="dm" liveUpdate="False" />

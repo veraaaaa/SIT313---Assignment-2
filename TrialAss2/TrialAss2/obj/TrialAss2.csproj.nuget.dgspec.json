@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kingsley/Desktop/TrialAss2/TrialAss2/TrialAss2.csproj": {}
+    "/Users/vera/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj": {}
   },
   "projects": {
-    "/Users/kingsley/Desktop/TrialAss2/TrialAss2/TrialAss2.csproj": {
+    "/Users/vera/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kingsley/Desktop/TrialAss2/TrialAss2/TrialAss2.csproj",
+        "projectUniqueName": "/Users/vera/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj",
         "projectName": "TrialAss2",
-        "projectPath": "/Users/kingsley/Desktop/TrialAss2/TrialAss2/TrialAss2.csproj",
-        "packagesPath": "/Users/kingsley/.nuget/packages/",
-        "outputPath": "/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/",
+        "projectPath": "/Users/vera/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj",
+        "packagesPath": "/Users/vera/.nuget/packages/",
+        "outputPath": "/Users/vera/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kingsley/.config/NuGet/NuGet.Config"
+          "/Users/vera/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
