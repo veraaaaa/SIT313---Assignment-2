@@ -8,7 +8,8 @@
     <ContentPage.Content>
 
         <StackLayout Orientation="Vertical"
-                     Spacing="20">
+                     Spacing="20"
+                     HeightRequest="300">
 
             <Label x:Name="HeaderLabel"
                    Margin="14,17,20,0"
@@ -29,7 +30,7 @@
                 <ListView x:Name="MultiSelectListView"
                           SeparatorVisibility="None"
                           Margin="5"
-                          RowHeight="10"
+                          RowHeight="100"
                           ItemSelected="OnItemSelected"
                           ItemTapped="OnItemTapped"
                           HasUnevenRows="True"
@@ -103,8 +104,8 @@
                             Clicked="ButtonClicked"
                             VerticalOptions="EndAndExpand"
                             HorizontalOptions="CenterAndExpand"
-                            BackgroundColor="#3DBDA0"
-                            Margin="0,0,0,62" />
+                            BackgroundColor="MediumSeaGreen"
+                            Margin="0,50,0,0" />
 
                 </StackLayout>
 

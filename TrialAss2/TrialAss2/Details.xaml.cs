@@ -24,7 +24,7 @@ namespace TrialAss2
                 WidthRequest = 25,
                 FontSize = 15,
                 Margin = new Thickness(100, 22, 20, 0)
-                
+
             };
             for (int i = 18; i <= 50; i++)
             {
@@ -95,101 +95,133 @@ namespace TrialAss2
                 TextColor = Color.DarkRed,
                 Margin = new Thickness(50, 22, 20, 0),
             };
+            var Button = new Button
+            {
+                Text = "Next Step",
+                TextColor = Color.White,
+                HeightRequest = 62,
+                WidthRequest = 201,
+                VerticalOptions = LayoutOptions.EndAndExpand,
+                HorizontalOptions = LayoutOptions.CenterAndExpand,
+                BackgroundColor = Color.MediumSeaGreen,
+                Margin = new Thickness(0, 200, 0, 0),
+            };
+            Button.Clicked += ButtonClicked;
+            var stackLayout = new StackLayout
+            {
+                Children =
+                {
+                    Button,
+                }
+            };
 
 
             Content = new StackLayout
             {
                 Orientation = StackOrientation.Vertical,
-                
+                HeightRequest=300,
+                Spacing=20,
+
                 Children =
                 {
-                    new Label
-                    {
-                        Text = "Tell us more about you",
-                        Margin = new Thickness(14,17,20,0),
-                        HeightRequest = 54,
-                        WidthRequest = 350,
-                        HorizontalTextAlignment = TextAlignment.Center,
-                        FontSize = 15,
-                        TextColor = Color.Black,
-                        HorizontalOptions = LayoutOptions.CenterAndExpand
-                        
-                    },
                     new StackLayout
                     {
-                        Orientation = StackOrientation.Horizontal,
-                        Children =
+                        Children=
                         {
                             new Label
                             {
-                                Text = "Your current age is: ",
-                                TextColor= Color.Black,
-                                Margin = new Thickness(5,35,20,0),
+                                Text = "Tell us more about you",
+                                Margin = new Thickness(14, 17, 20, 0),
+                                HeightRequest = 54,
+                                WidthRequest = 350,
+                                HorizontalTextAlignment = TextAlignment.Center,
                                 FontSize = 15,
-                                WidthRequest = 200,
-                                
+                                TextColor = Color.Black,
+                                HorizontalOptions = LayoutOptions.CenterAndExpand
                             },
-                            picker
-                        }
-                    },
-                    new StackLayout
-                    {
-
-                        Orientation = StackOrientation.Horizontal,
-                        
-                        Children =
-                        {
-                            
-                            new Label
+                            new StackLayout
                             {
-                                Text = "Your cycle days are：",
-                                TextColor= Color.Black,
-                                Margin = new Thickness(5,35,20,0),
-                                FontSize = 15,
-                                WidthRequest = 200,
+                                Orientation = StackOrientation.Horizontal,
+                                Children =
+                                {
+                                    new Label
+                                    {
+                                        Text = "Your current age is: ",
+                                        TextColor = Color.Black,
+                                        Margin = new Thickness(5, 35, 20, 0),
+                                        FontSize = 15,
+                                        WidthRequest = 200,
 
+                                    },
+                                    picker
+                                }
                             },
-                            picker2
-                        }
-                    },
-                    new StackLayout
-                    {
-                        Orientation = StackOrientation.Horizontal,
-                        Children =
-                        {
-                            new Label
+                            new StackLayout
                             {
-                                Text = "Your menstrual days are:",
-                                TextColor= Color.Black,
-                                Margin = new Thickness(5,35,20,0),
-                                FontSize = 15,
-                                WidthRequest = 200,
 
+                                Orientation = StackOrientation.Horizontal,
+
+                                Children =
+                                {
+
+                                    new Label
+                                    {
+                                        Text = "Your cycle days are：",
+                                        TextColor = Color.Black,
+                                        Margin = new Thickness(5, 35, 20, 0),
+                                        FontSize = 15,
+                                        WidthRequest = 200,
+
+                                    },
+                                    picker2
+                                }
                             },
-                            picker3
-                        }
-                    },
-                    new StackLayout
-                    {
-                        Orientation = StackOrientation.Horizontal,
-                        Children =
-                        {
-                            new Label
+                            new StackLayout
                             {
-                                Text = "Your last menstrual period was:",
-                                TextColor= Color.Black,
-                                Margin = new Thickness(5,35,20,0),
-                                FontSize = 15,
-                                WidthRequest = 230,
+                                Orientation = StackOrientation.Horizontal,
+                                Children =
+                                {
+                                    new Label
+                                    {
+                                        Text = "Your menstrual days are:",
+                                        TextColor = Color.Black,
+                                        Margin = new Thickness(5, 35, 20, 0),
+                                        FontSize = 15,
+                                        WidthRequest = 200,
 
+                                    },
+                                    picker3
+                                }
                             },
-                            datePicker
-                        }
-                    }
+                            new StackLayout
+                            {
+                                Orientation = StackOrientation.Horizontal,
+                                Children =
+                                {
+                                    new Label
+                                    {
+                                        Text = "Your last menstrual period was:",
+                                        TextColor = Color.Black,
+                                        Margin = new Thickness(5, 35, 20, 0),
+                                        FontSize = 15,
+                                        WidthRequest = 230,
+
+                                    },
+                                    datePicker
+                                }
+                            },
+                        },
+                    },
+                    stackLayout,
                 }
-                
+
             };
-           
+
+
+        }
+        async void ButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new HomePage());
         }
     }
 }
