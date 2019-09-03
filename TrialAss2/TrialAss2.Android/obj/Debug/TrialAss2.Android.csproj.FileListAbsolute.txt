@@ -1,0 +1,994 @@
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/bin/Debug/TrialAss2.Android.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/bin/Debug/TrialAss2.Android.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/bin/Debug/com.xamarin.trialass2.apk
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/bin/Debug/com.xamarin.trialass2-Signed.apk
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/bin/Debug/TrialAss2.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/bin/Debug/TrialAss2.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/build.props
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/adb.props
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/TrialAss2.Android.csprojAssemblyReference.cache
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/resourcepaths.cache
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res.flag
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/310788c8d01b390773e2131f08677c87789023dc.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/ae22cd54bbc315e805846e443f5786ff7dde3a74.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/c8789213c06b6a0b97f35642878f3cc277d0884b.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/1fa259803ec8df7df775c5fa12900b6f23524d0f.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/a75786dfae2dee89763daa1e13f5040ebad0e39f.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/778b909b8c185f4c2960f9e6849456c18bc6d859.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/9ce2ffeacd924985473fcd7757681ce042255c70.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/d6640d0afc002239a1fc164da2f52fec084293ef.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/728f4dba7e79fd094eff8d2c9915ad46d23dd1db.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/d2cb72f27feb7de24858dbaa450ae11b9b33e76a.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/53aefd924526204ad218f768d8d66625c40bc8ad.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/0cadb089ae474fac09e5198127fb9bb0e959fe05.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/310788c8d01b390773e2131f08677c87789023dc.flata
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/ae22cd54bbc315e805846e443f5786ff7dde3a74.flata
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/c8789213c06b6a0b97f35642878f3cc277d0884b.flata
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/1fa259803ec8df7df775c5fa12900b6f23524d0f.flata
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/a75786dfae2dee89763daa1e13f5040ebad0e39f.flata
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/778b909b8c185f4c2960f9e6849456c18bc6d859.flata
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/9ce2ffeacd924985473fcd7757681ce042255c70.flata
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/d6640d0afc002239a1fc164da2f52fec084293ef.flata
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/728f4dba7e79fd094eff8d2c9915ad46d23dd1db.flata
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/d2cb72f27feb7de24858dbaa450ae11b9b33e76a.flata
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/53aefd924526204ad218f768d8d66625c40bc8ad.flata
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/0cadb089ae474fac09e5198127fb9bb0e959fe05.flata
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/flata/compiled.flata
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/R.txt
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/R.cs.flag
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/TrialAss2.Android.csproj.CoreCompileInputs.cache
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/XamlC.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/TrialAss2.Android.csproj.CopyComplete
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/TrialAss2.Android.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/TrialAss2.Android.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/bin/com.xamarin.trialass2.apk
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/layout/tabbar.xml
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/layout/toolbar.xml
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/values/styles.xml
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/values/colors.xml
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/mipmap-anydpi-v26/icon.xml
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/mipmap-hdpi/launcher_foreground.png
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/mipmap-mdpi/launcher_foreground.png
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/mipmap-xhdpi/launcher_foreground.png
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/mipmap-xxhdpi/launcher_foreground.png
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/res/mipmap-xxxhdpi/launcher_foreground.png
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/uploadflags.txt
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/resolvedassemblies.hash
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/TrialAss2.Android.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/FormsViewGroup.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Java.Interop.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Mono.Android.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/mscorlib.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.Core.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.Numerics.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.Numerics.Vectors.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.Runtime.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.Xml.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.Xml.Linq.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/TrialAss2.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Core.Common.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Core.Runtime.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Lifecycle.Common.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Lifecycle.LiveData.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Lifecycle.Runtime.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Annotations.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.AsyncLayoutInflater.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Collections.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Compat.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.CoordinaterLayout.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Core.UI.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Core.Utils.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.CursorAdapter.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.CustomTabs.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.CustomView.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Design.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.DocumentFile.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.DrawerLayout.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Fragment.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Interpolator.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Loader.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.LocalBroadcastManager.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Media.Compat.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Print.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.SlidingPaneLayout.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.SwipeRefreshLayout.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Transition.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.v4.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.v7.CardView.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.v7.Palette.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.VersionedParcelable.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.ViewPager.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Essentials.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Core.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.Net.Http.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.Drawing.Common.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.Runtime.Serialization.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.ServiceModel.Internals.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Mono.Security.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.ComponentModel.Composition.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/netstandard.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.Data.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.Transactions.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.IO.Compression.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.IO.Compression.FileSystem.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/System.Web.Services.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/TrialAss2.Android.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/FormsViewGroup.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/TrialAss2.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Essentials.dll.mdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/link.flag
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/FormsViewGroup.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/FormsViewGroup.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Java.Interop.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Mono.Android.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Mono.Android.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Mono.Security.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/netstandard.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Core.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Data.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Drawing.Common.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.IO.Compression.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Net.Http.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Numerics.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Numerics.Vectors.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Runtime.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Transactions.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Web.Services.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Xml.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Xml.Linq.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/TrialAss2.Android.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/TrialAss2.Android.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/TrialAss2.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/TrialAss2.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Core.Common.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Core.Runtime.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Lifecycle.Common.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Lifecycle.LiveData.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Lifecycle.Runtime.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Annotations.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.AsyncLayoutInflater.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Collections.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Compat.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.CoordinaterLayout.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Core.UI.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Core.Utils.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.CursorAdapter.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.CustomTabs.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.CustomView.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Design.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.DocumentFile.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.DrawerLayout.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Fragment.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Interpolator.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Loader.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.LocalBroadcastManager.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Media.Compat.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Print.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.SlidingPaneLayout.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.SwipeRefreshLayout.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Transition.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.v4.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.CardView.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.Palette.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.VersionedParcelable.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.ViewPager.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Essentials.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Essentials.dll.mdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Core.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/MonoRuntimeProvider.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/machine.config
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/bin/mono.android.jar
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/static.flag
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/buildid.txt
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/media/session/MediaSessionCompat_OnActiveChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/os/CancellationSignal_OnCancelListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/accessibility/AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/accessibility/AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/ActionProvider_VisibilityListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/ActionProvider_SubUiVisibilityListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/ViewPropertyAnimatorUpdateListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/OnApplyWindowInsetsListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/ViewPropertyAnimatorListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/MenuItemCompat_OnActionExpandListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/ViewPager_OnPageChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/ViewPager_OnAdapterChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/content/Loader_OnLoadCanceledListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/content/Loader_OnLoadCompleteListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/widget/NestedScrollView_OnScrollChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/widget/SwipeRefreshLayout_OnRefreshListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/widget/SlidingPaneLayout_PanelSlideListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/widget/DrawerLayout_DrawerListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/mediacompat/R.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/app/SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/app/FragmentManager_OnBackStackChangedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/coordinatorlayout/R.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/customtabs/CustomTabsClient_CustomTabsCallbackImpl.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/customtabs/R.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v13/view/inputmethod/InputConnectionCompat_OnCommitContentListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/compat/R.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v13/view/DragStartHelper_OnDragStartListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/v7/cardview/R.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/v7/appcompat/R.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/media/RemotePlaybackClient_OnMessageReceivedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/v7/recyclerview/R.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/graphics/Palette_PaletteAsyncListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/v7/widget/Toolbar_NavigationOnClickEventDispatcher.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/RecyclerView_OnItemTouchListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/SearchView_OnCloseListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/ContentFrameLayout_OnAttachListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/RecyclerView_RecyclerListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/ActionMenuView_OnMenuItemClickListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/SearchView_OnQueryTextListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/PopupMenu_OnDismissListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/ViewStubCompat_OnInflateListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/Toolbar_OnMenuItemClickListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/SearchView_OnSuggestionListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/PopupMenu_OnMenuItemClickListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/MenuItemHoverListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/app/ActionBar_TabListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/app/ActionBar_OnMenuVisibilityListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/app/ActionBar_OnNavigationListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/v7/mediarouter/R.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/transition/Transition_TransitionListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/transition/R.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/chip/ChipGroup_OnCheckedChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/design/widget/Snackbar_SnackbarActionClickImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/widget/AppBarLayout_OnOffsetChangedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/widget/BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/widget/SwipeDismissBehavior_OnDismissListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/widget/NavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/widget/TabLayout_BaseOnTabSelectedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/widget/BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/android/support/design/R.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/xamarin/essentials/fileProvider.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellSearchViewAdapter_ObjectWrapper.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/NativeViewWrapperRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EdgeSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsAppCompatActivity.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SelectableItemsViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ImageCache_CacheEntry.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EntryRendererBase_1.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EditorEditText.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EmptyViewAdapter_EmptyViewHolder.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/AndroidActivity.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ButtonRenderer_ButtonTouchListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/DataChangeObserver.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellToolbarTracker.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PageExtensions_EmbeddedSupportFragment.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsImageView.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/WebViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ProgressBarRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CircularProgress.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/WebViewRenderer_JavascriptResult.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PickerEditText.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsApplicationActivity.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellSearchViewAdapter_CustomFilter.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellSearchView_ClipDrawableWrapper.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutRecyclerAdapter.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ObjectJavaBox_1.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SingleSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FrameRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/NongreedySnapHelper.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellSectionRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/MasterDetailRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CarouselPageRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/InnerGestureListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EntryCellEditText.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellSearchViewAdapter.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PlatformRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ColorChangeRevealDrawable.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ImageButtonRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/StartSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SliderRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/StepperRendererManager_StepperListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EntryEditText.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ButtonRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CheckBoxRendererBase.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/BoxRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PickerManager_PickerListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/StartSingleSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ScrollViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ContainerView.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SearchBarRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CellRenderer_RendererHolder.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ButtonRenderer_ButtonClickListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellItemRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/NavigationRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PowerSaveModeBroadcastReceiver.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SizedItemContentView.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TableViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/OpenGLViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CheckBoxRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ListViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutTemplatedContentRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ItemsViewAdapter.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellRenderer_SplitDrawable.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/LabelRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CollectionViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CarouselPageAdapter.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/BaseCellView.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/GestureManager_TapAndPanGestureDetector.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EditorRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CellAdapter.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/GroupedListViewAdapter.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SwitchCellView.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/DatePickerRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ListViewAdapter.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TimePickerRendererBase_1.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SelectableItemsViewAdapter.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ItemContentView.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PageContainer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ViewCellRenderer_ViewCellContainer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PositionalSmoothScroller.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SpacingItemDecoration.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TemplatedItemViewHolder.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutContentRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsTextView.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ImageRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormattedStringExtensions_FontSpan.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormattedStringExtensions_TextDecorationSpan.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/LocalizedDigitsKeyListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EntryAccessibilityDelegate.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/VisualElementTracker_AttachTracker.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TabbedRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFragmentPagerAdapter.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EntryCellView.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/OpenGLViewRenderer_Renderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PickerRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsSeekBar.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ItemsViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CustomFrameLayout.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PageExtensions_EmbeddedFragment.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellItemRendererBase.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellPageContainer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TextCellRenderer_TextCellView.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FrameRenderer_FrameDrawable.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TextViewHolder.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/AHorizontalScrollView.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EntryRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellSearchView.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsEditText.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CheckBoxDesignerRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/Platform_DefaultRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/GenericMenuClickListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ActivityIndicatorRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CarouselViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ImageCache_FormsLruCache.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PageRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CenterSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EditorRendererBase_1.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EmptyViewAdapter.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ViewRenderer_2.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/BorderDrawable.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TableViewModelRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EndSingleSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellContentFragment.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/MasterDetailContainer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsWebViewClient.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsEditTextBase.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/DatePickerRendererBase_1.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ScrollViewContainer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EndSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SwitchRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/GenericAnimatorListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ConditionalFocusLayout.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/VisualElementRenderer_1.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SelectableViewHolder.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/InnerScaleListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ListViewRenderer_Container.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ActionSheetRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TimePickerRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsWebChromeClient.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormattedStringExtensions_LineHeightSpan.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/StepperRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/ActivityLifecycleContextListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/EnergySaverBroadcastReceiver.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/MagnetometerListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/SensorListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/ConnectivityBroadcastReceiver.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/AccelerometerListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/BarometerListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/SingleLocationListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/Listener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/TextToSpeechImplementation.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/OrientationSensorListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/BatteryBroadcastReceiver.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/GyroscopeListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/mono/MonoPackageManager_Resources.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/NavigationPageRenderer_DrawerMultiplexedListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/FrameRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/FormsViewPager.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/CarouselPageRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/FragmentContainer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/ButtonRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/Platform_ModalContainer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/NavigationPageRenderer_ClickListener.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/MasterDetailPageRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/NavigationPageRenderer_Container.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/ShellFragmentContainer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/PickerRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/NavigationPageRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/FormsFragmentPagerAdapter_1.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/TabbedPageRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/ViewRenderer_2.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/MasterDetailContainer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/PickerRendererBase_1.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/SwitchRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/FrameRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/ButtonRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/LabelRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/ImageRenderer.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5dcb6eccdc824e0677ffae8ccdde42930/KeepAliveService.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md5dcb6eccdc824e0677ffae8ccdde42930/CustomTabsServiceConnectionImpl.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/md53d7ca0ee2db96fd8da1754a168bda929/MainActivity.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/bin/packaged_resources
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/src/com/xamarin/trialass2/R.java
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/bin/classes.dex
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/stamp/_BuildAdditionalResourcesCache.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/stamp/_CleanIntermediateIfNuGetsChange.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/stamp/_CompileToDalvik.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/stamp/_ConvertCustomView.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/stamp/_ConvertLibraryResourcesCases.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/stamp/_ConvertResourcesCases.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/stamp/_CopyIntermediateAssemblies.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/stamp/_CopyMdbFiles.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/stamp/_CopyPdbFiles.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/bin/Debug/TrialAss2.Android.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/bin/Debug/TrialAss2.Android.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/bin/Debug/com.xamarin.trialass2.apk
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/bin/Debug/com.xamarin.trialass2-Signed.apk
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/bin/Debug/TrialAss2.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/bin/Debug/TrialAss2.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/build.props
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/adb.props
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/TrialAss2.Android.csprojAssemblyReference.cache
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/resourcepaths.cache
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res.flag
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/e96b76477d36db27d55f5fdbcd459c71cbd9968a.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/47718d843ab34885df858b95a35b710d7587d794.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/e962660a4931a07dbccf53ba615006edb69b72b4.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/dfd51b04ba15e21bf027f3f3bf87f2592e02ce42.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/c7620ea45c83d250f3462038a3a9a249bd6fea5f.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/c721ddc210f5544b4f7fbf59fb229ba175769fa1.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/e113200d2ccb49315886534be1f2d6b420a69dc0.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/cd6a35ca6c4751b73ab83bbce84ae1cc82c97ccc.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/c1a48ec19cb06018d953c3f5c50e5b499c148a0f.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/9a74d4aedaa382ba16969e3113e36ea1c9dc80eb.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/dc92f23e4b5445aed62676643535a57ab8560a42.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/7bff140494d18d337b1805a2d53622708568e26d.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/e96b76477d36db27d55f5fdbcd459c71cbd9968a.flata
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/47718d843ab34885df858b95a35b710d7587d794.flata
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/e962660a4931a07dbccf53ba615006edb69b72b4.flata
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/dfd51b04ba15e21bf027f3f3bf87f2592e02ce42.flata
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/c7620ea45c83d250f3462038a3a9a249bd6fea5f.flata
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/c721ddc210f5544b4f7fbf59fb229ba175769fa1.flata
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/e113200d2ccb49315886534be1f2d6b420a69dc0.flata
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/cd6a35ca6c4751b73ab83bbce84ae1cc82c97ccc.flata
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/c1a48ec19cb06018d953c3f5c50e5b499c148a0f.flata
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/9a74d4aedaa382ba16969e3113e36ea1c9dc80eb.flata
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/dc92f23e4b5445aed62676643535a57ab8560a42.flata
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/7bff140494d18d337b1805a2d53622708568e26d.flata
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/flata/compiled.flata
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/R.txt
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/R.cs.flag
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/TrialAss2.Android.csproj.CoreCompileInputs.cache
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/XamlC.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/TrialAss2.Android.csproj.CopyComplete
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/TrialAss2.Android.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/TrialAss2.Android.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/bin/com.xamarin.trialass2.apk
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/layout/tabbar.xml
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/layout/toolbar.xml
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/values/styles.xml
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/values/colors.xml
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/mipmap-anydpi-v26/icon.xml
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/mipmap-hdpi/launcher_foreground.png
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/mipmap-mdpi/launcher_foreground.png
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/mipmap-xhdpi/launcher_foreground.png
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/mipmap-xxhdpi/launcher_foreground.png
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/res/mipmap-xxxhdpi/launcher_foreground.png
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/uploadflags.txt
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/resolvedassemblies.hash
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/TrialAss2.Android.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/FormsViewGroup.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Java.Interop.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Mono.Android.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/mscorlib.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.Core.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.Numerics.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.Numerics.Vectors.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.Runtime.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.Xml.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.Xml.Linq.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/TrialAss2.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Core.Common.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Core.Runtime.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Lifecycle.Common.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Lifecycle.LiveData.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Lifecycle.Runtime.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Annotations.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.AsyncLayoutInflater.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Collections.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Compat.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.CoordinaterLayout.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Core.UI.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Core.Utils.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.CursorAdapter.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.CustomTabs.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.CustomView.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Design.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.DocumentFile.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.DrawerLayout.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Fragment.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Interpolator.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Loader.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.LocalBroadcastManager.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Media.Compat.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Print.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.SlidingPaneLayout.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.SwipeRefreshLayout.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Transition.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.v4.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.v7.CardView.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.v7.Palette.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.VersionedParcelable.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Android.Support.ViewPager.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Essentials.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Core.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.Net.Http.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.Drawing.Common.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.Runtime.Serialization.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.ServiceModel.Internals.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Mono.Security.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.ComponentModel.Composition.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/netstandard.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.Data.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.Transactions.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.IO.Compression.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.IO.Compression.FileSystem.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/System.Web.Services.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/TrialAss2.Android.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/FormsViewGroup.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/TrialAss2.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/linksrc/Xamarin.Essentials.dll.mdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/link.flag
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/FormsViewGroup.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/FormsViewGroup.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Java.Interop.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Mono.Android.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Mono.Android.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Mono.Security.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/netstandard.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.Core.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.Data.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.Drawing.Common.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.IO.Compression.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.Net.Http.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.Numerics.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.Numerics.Vectors.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.Runtime.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.Transactions.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.Web.Services.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.Xml.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/System.Xml.Linq.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/TrialAss2.Android.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/TrialAss2.Android.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/TrialAss2.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/TrialAss2.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Core.Common.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Core.Runtime.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Lifecycle.Common.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Lifecycle.LiveData.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Lifecycle.Runtime.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Annotations.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.AsyncLayoutInflater.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Collections.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Compat.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.CoordinaterLayout.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Core.UI.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Core.Utils.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.CursorAdapter.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.CustomTabs.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.CustomView.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Design.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.DocumentFile.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.DrawerLayout.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Fragment.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Interpolator.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Loader.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.LocalBroadcastManager.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Media.Compat.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Print.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.SlidingPaneLayout.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.SwipeRefreshLayout.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Transition.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.v4.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.CardView.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.Palette.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.VersionedParcelable.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Android.Support.ViewPager.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Essentials.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Essentials.dll.mdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Core.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/MonoRuntimeProvider.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/assets/machine.config
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/bin/mono.android.jar
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/static.flag
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/buildid.txt
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/media/session/MediaSessionCompat_OnActiveChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/os/CancellationSignal_OnCancelListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/accessibility/AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/accessibility/AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/ActionProvider_VisibilityListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/ActionProvider_SubUiVisibilityListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/ViewPropertyAnimatorUpdateListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/OnApplyWindowInsetsListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/ViewPropertyAnimatorListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/MenuItemCompat_OnActionExpandListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/ViewPager_OnPageChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/view/ViewPager_OnAdapterChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/content/Loader_OnLoadCanceledListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/content/Loader_OnLoadCompleteListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/widget/NestedScrollView_OnScrollChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/widget/SwipeRefreshLayout_OnRefreshListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/widget/SlidingPaneLayout_PanelSlideListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/widget/DrawerLayout_DrawerListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/app/SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v4/app/FragmentManager_OnBackStackChangedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v13/view/inputmethod/InputConnectionCompat_OnCommitContentListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/mediacompat/R.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v13/view/DragStartHelper_OnDragStartListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/coordinatorlayout/R.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/customtabs/CustomTabsClient_CustomTabsCallbackImpl.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/customtabs/R.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/media/RemotePlaybackClient_OnMessageReceivedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/compat/R.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/graphics/Palette_PaletteAsyncListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/v7/cardview/R.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/RecyclerView_OnItemTouchListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/SearchView_OnCloseListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/ContentFrameLayout_OnAttachListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/RecyclerView_RecyclerListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/ActionMenuView_OnMenuItemClickListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/SearchView_OnQueryTextListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/PopupMenu_OnDismissListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/ViewStubCompat_OnInflateListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/Toolbar_OnMenuItemClickListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/SearchView_OnSuggestionListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/PopupMenu_OnMenuItemClickListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/MenuItemHoverListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/widget/ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/v7/appcompat/R.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/app/ActionBar_TabListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/app/ActionBar_OnMenuVisibilityListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/v7/app/ActionBar_OnNavigationListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/v7/recyclerview/R.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/v7/widget/Toolbar_NavigationOnClickEventDispatcher.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/transition/Transition_TransitionListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/v7/mediarouter/R.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/chip/ChipGroup_OnCheckedChangeListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/widget/AppBarLayout_OnOffsetChangedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/widget/BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/widget/SwipeDismissBehavior_OnDismissListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/widget/NavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/widget/TabLayout_BaseOnTabSelectedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/support/design/widget/BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/transition/R.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/design/widget/Snackbar_SnackbarActionClickImplementor.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/android/support/design/R.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellSearchViewAdapter_ObjectWrapper.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/NativeViewWrapperRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EdgeSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsAppCompatActivity.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SelectableItemsViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ImageCache_CacheEntry.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EntryRendererBase_1.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EditorEditText.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EmptyViewAdapter_EmptyViewHolder.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/AndroidActivity.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ButtonRenderer_ButtonTouchListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/DataChangeObserver.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellToolbarTracker.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PageExtensions_EmbeddedSupportFragment.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsImageView.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/WebViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ProgressBarRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CircularProgress.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/WebViewRenderer_JavascriptResult.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PickerEditText.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsApplicationActivity.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellSearchViewAdapter_CustomFilter.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellSearchView_ClipDrawableWrapper.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutRecyclerAdapter.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ObjectJavaBox_1.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SingleSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FrameRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/NongreedySnapHelper.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellSectionRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/MasterDetailRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CarouselPageRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/InnerGestureListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EntryCellEditText.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellSearchViewAdapter.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PlatformRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ColorChangeRevealDrawable.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ImageButtonRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/StartSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SliderRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/StepperRendererManager_StepperListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EntryEditText.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ButtonRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CheckBoxRendererBase.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/BoxRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PickerManager_PickerListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/StartSingleSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ScrollViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ContainerView.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SearchBarRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CellRenderer_RendererHolder.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ButtonRenderer_ButtonClickListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellItemRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/NavigationRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PowerSaveModeBroadcastReceiver.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SizedItemContentView.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TableViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/OpenGLViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CheckBoxRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ListViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutTemplatedContentRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ItemsViewAdapter.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellRenderer_SplitDrawable.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/LabelRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CollectionViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CarouselPageAdapter.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/BaseCellView.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/GestureManager_TapAndPanGestureDetector.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EditorRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CellAdapter.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/GroupedListViewAdapter.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SwitchCellView.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/DatePickerRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ListViewAdapter.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TimePickerRendererBase_1.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SelectableItemsViewAdapter.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ItemContentView.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PageContainer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ViewCellRenderer_ViewCellContainer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PositionalSmoothScroller.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SpacingItemDecoration.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TemplatedItemViewHolder.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutContentRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsTextView.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ImageRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormattedStringExtensions_FontSpan.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormattedStringExtensions_TextDecorationSpan.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/LocalizedDigitsKeyListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EntryAccessibilityDelegate.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/VisualElementTracker_AttachTracker.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TabbedRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFragmentPagerAdapter.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EntryCellView.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/OpenGLViewRenderer_Renderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PickerRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsSeekBar.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ItemsViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CustomFrameLayout.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PageExtensions_EmbeddedFragment.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellItemRendererBase.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellPageContainer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TextCellRenderer_TextCellView.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FrameRenderer_FrameDrawable.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TextViewHolder.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/AHorizontalScrollView.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EntryRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellSearchView.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsEditText.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CheckBoxDesignerRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/Platform_DefaultRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/GenericMenuClickListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ActivityIndicatorRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CarouselViewRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ImageCache_FormsLruCache.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/PageRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/CenterSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EditorRendererBase_1.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EmptyViewAdapter.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ViewRenderer_2.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/BorderDrawable.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TableViewModelRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EndSingleSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellContentFragment.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/MasterDetailContainer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsWebViewClient.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsEditTextBase.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/DatePickerRendererBase_1.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ScrollViewContainer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/EndSnapHelper.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SwitchRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/GenericAnimatorListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ConditionalFocusLayout.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/VisualElementRenderer_1.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/SelectableViewHolder.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/InnerScaleListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ListViewRenderer_Container.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ActionSheetRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/TimePickerRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormsWebChromeClient.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/FormattedStringExtensions_LineHeightSpan.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md51558244f76c53b6aeda52c8a337f2c37/StepperRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/ActivityLifecycleContextListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/EnergySaverBroadcastReceiver.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/MagnetometerListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/SensorListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/ConnectivityBroadcastReceiver.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/AccelerometerListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/BarometerListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/SingleLocationListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/Listener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/TextToSpeechImplementation.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/OrientationSensorListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/BatteryBroadcastReceiver.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5d630c3d3bfb5f5558520331566132d97/GyroscopeListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/xamarin/essentials/fileProvider.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/NavigationPageRenderer_DrawerMultiplexedListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/FrameRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/FormsViewPager.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/CarouselPageRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/FragmentContainer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/ButtonRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/Platform_ModalContainer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/NavigationPageRenderer_ClickListener.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/MasterDetailPageRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/NavigationPageRenderer_Container.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/ShellFragmentContainer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/PickerRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/NavigationPageRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/FormsFragmentPagerAdapter_1.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/TabbedPageRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/ViewRenderer_2.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/MasterDetailContainer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/PickerRendererBase_1.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md58432a647068b097f9637064b8985a5e0/SwitchRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5dcb6eccdc824e0677ffae8ccdde42930/KeepAliveService.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5dcb6eccdc824e0677ffae8ccdde42930/CustomTabsServiceConnectionImpl.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/mono/MonoPackageManager_Resources.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md53d7ca0ee2db96fd8da1754a168bda929/MainActivity.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/FrameRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/ButtonRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/LabelRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/md5f92e0daf340890c9667469657ee2ece8/ImageRenderer.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/bin/packaged_resources
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/src/com/xamarin/trialass2/R.java
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/android/bin/classes.dex
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/stamp/_BuildAdditionalResourcesCache.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/stamp/_CleanIntermediateIfNuGetsChange.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/stamp/_CompileToDalvik.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/stamp/_ConvertCustomView.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/stamp/_ConvertLibraryResourcesCases.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/stamp/_ConvertResourcesCases.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/stamp/_CopyIntermediateAssemblies.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/stamp/_CopyMdbFiles.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/stamp/_CopyPdbFiles.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp

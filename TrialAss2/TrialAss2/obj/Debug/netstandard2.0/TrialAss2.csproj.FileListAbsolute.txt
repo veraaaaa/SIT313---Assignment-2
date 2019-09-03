@@ -1,0 +1,38 @@
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/bin/Debug/netstandard2.0/TrialAss2.deps.json
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/bin/Debug/netstandard2.0/TrialAss2.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/bin/Debug/netstandard2.0/TrialAss2.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/Details.xaml.g.cs
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.csproj.CoreCompileInputs.cache
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.AssemblyInfoInputs.cache
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.AssemblyInfo.cs
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.csprojAssemblyReference.cache
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2/bin/Debug/netstandard2.0/TrialAss2.deps.json
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2/bin/Debug/netstandard2.0/TrialAss2.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2/bin/Debug/netstandard2.0/TrialAss2.pdb
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.csprojAssemblyReference.cache
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2/obj/Debug/netstandard2.0/Details.xaml.g.cs
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.csproj.CoreCompileInputs.cache
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.AssemblyInfoInputs.cache
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.AssemblyInfo.cs
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.dll
+/Users/kingsley/Desktop/TrialAss2 Backup/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.pdb
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
+/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/Details.xaml.g.cs
+/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
+/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/Login.xaml.g.cs
+/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/RecordPage.xaml.g.cs
+/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.csproj.CoreCompileInputs.cache
+/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.AssemblyInfoInputs.cache
+/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.AssemblyInfo.cs
+/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.dll
+/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.pdb

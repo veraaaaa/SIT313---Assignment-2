@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="TrialAss2.RecordPage"
+             xmlns:controls="clr-namespace:XamForms.Controls;assembly=XamForms.Controls.Calendar">
+    <ContentPage.Content>
+<!-- Top Navigation       -->
+    <StackLayout Padding="20,90,20,20">
+            <controls:Calendar x:Name="calendar"
+                           Padding="10,0,10,0"
+                           SelectedBorderWidth="4"
+                           DisabledBorderColor="Black"
+                           ShowNumberOfWeek="false"
+                           StartDay="Monday"
+                           TitleRightArrowTextColor="Blue"
+                           TitleLabelTextColor="Purple"
+                           TitleLeftArrowTextColor="Blue"
+                           WeekdaysFontSize="12"
+                           SelectedDate="{Binding Date}"
+                           SpecialDates="{Binding Workout}"
+                           DateCommand="{Binding DateChosen}" />
+            </StackLayout>
+<!--  Show detail refrence      -->
+        <StackLayout>
+        <Label Text="Predication"/>
+            <Label Text="oval"/>
+            
+        </StackLayout>
+<!--   Recoding      -->
+    </ContentPage.Content>
+</ContentPage>
+    
