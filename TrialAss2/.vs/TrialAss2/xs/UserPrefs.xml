@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{69C1FFC3-603E-4F53-83C3-BD7B8A505F02}|Default">
   <MonoDevelop.Ide.ItemProperties.TrialAss2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A02B4831-C23A-4C63-BD45-BAEAE1C53D08" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TrialAss2/Details.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrialAss2/HomePage.xaml">
     <Files>
       <File FileName="TrialAss2/HomePage.xaml.cs" Line="16" Column="1" />
       <File FileName="TrialAss2/Details.xaml.cs" Line="125" Column="27" />
-      <File FileName="TrialAss2/App.xaml" Line="1" Column="1" />
-      <File FileName="TrialAss2/MainPage.xaml" Line="108" Column="41" />
-      <File FileName="TrialAss2/AssemblyInfo.cs" Line="1" Column="1" />
-      <File FileName="TrialAss2/App.xaml.cs" Line="20" Column="1" />
+      <File FileName="TrialAss2/App.xaml" />
+      <File FileName="TrialAss2/MainPage.xaml" />
+      <File FileName="TrialAss2/AssemblyInfo.cs" />
+      <File FileName="TrialAss2/App.xaml.cs" />
+      <File FileName="TrialAss2/HomePage.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,13 +16,14 @@
           <Node name="TrialAss2" expanded="True">
             <Node name="TrialAss2" expanded="True">
               <Node name="App.xaml" expanded="True" />
-              <Node name="Details.xaml" expanded="True">
-                <Node name="Details.xaml.cs" selected="True" />
-              </Node>
-              <Node name="HomePage.xaml" expanded="True" />
+              <Node name="Details.xaml" expanded="True" />
+              <Node name="HomePage.xaml" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

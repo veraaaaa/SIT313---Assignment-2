@@ -1011,11 +1011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kingsley/Desktop/TrialAss2/TrialAss2.iOS/TrialAss2.iOS.csproj",
+      "projectUniqueName": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2.iOS/TrialAss2.iOS.csproj",
       "projectName": "TrialAss2.iOS",
-      "projectPath": "/Users/kingsley/Desktop/TrialAss2/TrialAss2.iOS/TrialAss2.iOS.csproj",
+      "projectPath": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2.iOS/TrialAss2.iOS.csproj",
       "packagesPath": "/Users/kingsley/.nuget/packages/",
-      "outputPath": "/Users/kingsley/Desktop/TrialAss2/TrialAss2.iOS/obj/",
+      "outputPath": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1030,8 +1030,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/kingsley/Desktop/TrialAss2/TrialAss2/TrialAss2.csproj": {
-              "projectPath": "/Users/kingsley/Desktop/TrialAss2/TrialAss2/TrialAss2.csproj"
+            "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj": {
+              "projectPath": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj"
             }
           }
         }

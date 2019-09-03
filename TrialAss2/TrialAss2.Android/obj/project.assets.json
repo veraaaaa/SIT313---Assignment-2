@@ -2005,11 +2005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/TrialAss2.Android.csproj",
+      "projectUniqueName": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2.Android/TrialAss2.Android.csproj",
       "projectName": "TrialAss2.Android",
-      "projectPath": "/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/TrialAss2.Android.csproj",
+      "projectPath": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2.Android/TrialAss2.Android.csproj",
       "packagesPath": "/Users/kingsley/.nuget/packages/",
-      "outputPath": "/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/",
+      "outputPath": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2024,8 +2024,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/kingsley/Desktop/TrialAss2/TrialAss2/TrialAss2.csproj": {
-              "projectPath": "/Users/kingsley/Desktop/TrialAss2/TrialAss2/TrialAss2.csproj"
+            "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj": {
+              "projectPath": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj"
             }
           }
         }
