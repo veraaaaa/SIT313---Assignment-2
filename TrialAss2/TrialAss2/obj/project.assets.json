@@ -63,6 +63,18 @@
           "build/Xamarin.Forms.props": {},
           "build/Xamarin.Forms.targets": {}
         }
+      },
+      "XamForms.Controls.Calendar/1.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.3.4.231"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+win8+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/XamForms.Controls.Calendar.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+win8+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/XamForms.Controls.Calendar.dll": {}
+        }
       }
     }
   },
@@ -546,33 +558,66 @@
         "xamarin.forms.4.1.0.555618.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
+    },
+    "XamForms.Controls.Calendar/1.1.1": {
+      "sha512": "GCydwm9HO+8V4iGVsGJZtnHJaqIpjas40BSRU+T7lIM7E4nZ7pOn2Ifzu0Y6MLrZJuqCHFeroOWjJSfOjZIyyw==",
+      "type": "package",
+      "path": "xamforms.controls.calendar/1.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/XamForms.Controls.Calendar.Droid.dll",
+        "lib/MonoAndroid10/XamForms.Controls.Calendar.dll",
+        "lib/MonoTouch10/XamForms.Controls.Calendar.dll",
+        "lib/MonoTouch10/XamForms.Controls.Calendar.iOS.dll",
+        "lib/UAP10/XamForms.Controls.Calendar.UWP.dll",
+        "lib/UAP10/XamForms.Controls.Calendar.dll",
+        "lib/Xamarin.iOS10/XamForms.Controls.Calendar.dll",
+        "lib/Xamarin.iOS10/XamForms.Controls.Calendar.iOS.dll",
+        "lib/portable-net45+wp8+win8+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/XamForms.Controls.Calendar.dll",
+        "lib/win81/XamForms.Controls.Calendar.Windows.dll",
+        "lib/win81/XamForms.Controls.Calendar.dll",
+        "lib/wpa81/XamForms.Controls.Calendar.WinPhone.dll",
+        "lib/wpa81/XamForms.Controls.Calendar.dll",
+        "xamforms.controls.calendar.1.1.1.nupkg.sha512",
+        "xamforms.controls.calendar.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
+      "XamForms.Controls.Calendar >= 1.1.1",
       "Xamarin.Essentials >= 1.1.0",
       "Xamarin.Forms >= 4.1.0.555618"
     ]
   },
   "packageFolders": {
-    "/Users/kingsley/.nuget/packages/": {},
+    "/Users/vera/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj",
       "projectName": "TrialAss2",
       "projectPath": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj",
       "packagesPath": "/Users/kingsley/.nuget/packages/",
       "outputPath": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/",
+=======
+      "projectUniqueName": "/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj",
+      "projectName": "TrialAss2",
+      "projectPath": "/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj",
+      "packagesPath": "/Users/vera/.nuget/packages/",
+      "outputPath": "/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/",
+>>>>>>> d6ef4ea0c6cb3e33e0a84109a0dfe9ead6e9d3eb
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/kingsley/.config/NuGet/NuGet.Config"
+        "/Users/vera/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -600,6 +645,10 @@
             "version": "[2.0.3, )",
             "autoReferenced": true
           },
+          "XamForms.Controls.Calendar": {
+            "target": "Package",
+            "version": "[1.1.1, )"
+          },
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.1.0, )"
@@ -616,5 +665,17 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'XamForms.Controls.Calendar 1.1.1' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "XamForms.Controls.Calendar",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }
