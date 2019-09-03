@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TrialAss2.HomePage">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <StackLayout Orientation="Horizontal"
+                         HorizontalOptions="CenterAndExpand">
+                <Grid>
+                    <Label Text="Today"></Label>
+                </Grid>
+                <Grid>
+                    <Label Text="Today"></Label>
+                </Grid>
+                <Grid>
+                    <Label Text="Today"></Label>
+                </Grid>
+                <Grid>
+                    <Label Text="Today"></Label>
+                </Grid>
+                <Grid>
+                    <Label Text="Today"></Label>
+                </Grid>
+                <Grid>
+                    <Label Text="Today"></Label>
+                </Grid>
+                <Grid>
+                    <Label Text="Today"></Label>
+                </Grid>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal"
+                         HorizontalOptions="CenterAndExpand">
+                <Grid>
+                    <Label Text="{Binding Today}"
+                           TextColor="Black"></Label>
+                </Grid>
+                <Grid>
+                    <Label Text="{Binding SecondDay}"
+                           TextColor="Black"></Label>
+                </Grid>
+                <Grid>
+                    <Label Text="{Binding ThirdDay}"
+                           TextColor="Black"></Label>
+                </Grid>
+                <Grid>
+                    <Label Text="{Binding FourthDay}"
+                           TextColor="Black"></Label>
+                </Grid>
+                <Grid>
+                    <Label Text="{Binding FifthDay}"
+                           TextColor="Black"></Label>
+                </Grid>
+                <Grid>
+                    <Label Text="{Binding SixthDay}"
+                           TextColor="Black"></Label>
+                </Grid>
+                <Grid>
+                    <Label Text="{Binding Sevenday}"
+                           TextColor="Black"></Label>
+                </Grid>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
