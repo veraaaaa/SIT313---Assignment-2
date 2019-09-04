@@ -12,11 +12,15 @@ namespace TrialAss2
 {
     public partial class Details : ContentPage
     {
+        public static List<CustomerInfo> CustomerInfo = new List<CustomerInfo>();
+        public static CustomerInfo customerInfo = new CustomerInfo();
+
         public Details()
         {
             InitializeComponent();
 
             var Age = new Label();
+            var Date = new DateTime();
 
             var picker = new Picker
             {
@@ -36,9 +40,11 @@ namespace TrialAss2
                 if (selectedIndex != -1)
                 {
                     Age.Text = picker.Items[selectedIndex];
-
+                    
                 }
                 picker.TextColor = Color.DarkRed;
+                customerInfo.Age = Age.Text;
+                CustomerInfo.Add(customerInfo);
             };
 
             var picker2 = new Picker
@@ -62,6 +68,8 @@ namespace TrialAss2
 
                 }
                 picker2.TextColor = Color.DarkRed;
+                customerInfo.CycleDay = Age.Text;
+                CustomerInfo.Add(customerInfo);
             };
 
             var picker3 = new Picker
@@ -82,19 +90,26 @@ namespace TrialAss2
                 if (selectedIndex != -1)
                 {
                     Age.Text = picker3.Items[selectedIndex];
-
                 }
                 picker3.TextColor = Color.DarkRed;
+                customerInfo.MenstrualDay = Age.Text;
+                CustomerInfo.Add(customerInfo);
             };
 
             DatePicker datePicker = new DatePicker
             {
                 MinimumDate = new DateTime(1, 1, 1),
                 MaximumDate = new DateTime(9999, 12, 31),
-                Date = DateTime.Now,
                 TextColor = Color.DarkRed,
                 Margin = new Thickness(50, 22, 20, 0),
+                Format = "dd / MMM / yyyy",
             };
+            datePicker.DateSelected += (sender, e) =>
+            {
+                customerInfo.LmenstrualDay = datePicker.Date;
+                CustomerInfo.Add(customerInfo);
+            };
+
             var Button = new Button
             {
                 Text = "Next Step",

@@ -16,7 +16,6 @@ namespace TrialAss2
                 SelectedDate = DateTime.Now,
                 SelectedBorderColor = Color.Red,
             };
-            calendar.
 
             Content = new StackLayout
             {
