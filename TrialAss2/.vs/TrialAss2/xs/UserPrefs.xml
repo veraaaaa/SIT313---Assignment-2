@@ -1,11 +1,18 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{162F57BD-4E40-470B-A4D0-11FF76EA4430}|Default">
   <MonoDevelop.Ide.ItemProperties.TrialAss2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A02B4831-C23A-4C63-BD45-BAEAE1C53D08" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../usr/local/share/dotnet/sdk/2.2.401/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
+    <Files>
+      <File FileName="../../../../../../usr/local/share/dotnet/sdk/2.2.401/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="208" Column="5" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TrialAss2" expanded="True">
-            <Node name="TrialAss2" selected="True" />
+            <Node name="TrialAss2" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>

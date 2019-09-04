@@ -36,3 +36,5 @@
 /Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.AssemblyInfo.cs
 /Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.dll
 /Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.pdb
+/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.dll
+/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.pdb
