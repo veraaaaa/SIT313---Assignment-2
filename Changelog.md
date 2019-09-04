@@ -8,6 +8,18 @@ What we Have done this week:
 What we plan to do next week:  
 1: Continue work the following layout page  
 2: Find out what sort of data storige we are using  
+3: Implment the app  following the MVVM design model.  
+
+Week 7 Update  
+What we Have done this week:  
+1: Continue work on the following page layout  
+2: Spend more time figure out how to display the calender on to the screen 
+3: Spend more time figure out how to display how to display a certain period on the calendar using different colour
+
+What we plan to do next week:  
+1: Continue work the following layout page  
+2: Find out what sort of data storige we are using  
 3: Implment the app  following the MVVM design model.
+4: Create a sufficient data base structure
 
 
