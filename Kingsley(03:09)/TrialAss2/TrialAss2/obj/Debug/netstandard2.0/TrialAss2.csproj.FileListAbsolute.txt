@@ -28,3 +28,5 @@
 /Users/kingsley/Desktop/TrialAss2/TrialAss2/bin/Debug/netstandard2.0/Xamarin.iOS.dll
 /Users/kingsley/Desktop/TrialAss2/TrialAss2/bin/Debug/netstandard2.0/Xamarin.iOS.pdb
 /Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/TrialAss2.csproj.CopyComplete
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/CalendarPage.xaml.g.cs
+/Users/kingsley/Desktop/TrialAss2/TrialAss2/obj/Debug/netstandard2.0/Profile.xaml.g.cs

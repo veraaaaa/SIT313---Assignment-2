@@ -221,7 +221,12 @@ namespace TrialAss2
         }
         async void ButtonClicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new HomePage());
+            var tabbedpage = new TabbedPage();
+            tabbedpage.Children.Add(new HomePage { Title = "HomePage" });
+            tabbedpage.Children.Add(new CalendarPage { Title = "Calendar" });
+            tabbedpage.Children.Add(new Profile { Title = "Profile" });
+
+            await Navigation.PushAsync(tabbedpage);
         }
     }
 }

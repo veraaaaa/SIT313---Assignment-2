@@ -3,6 +3,9 @@
 /Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Java.Interop.dll
 /Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/Mono.Android.dll
 /Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/SkiaSharp.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/SkiaSharp.Views.Android.dll
+/Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/SkiaSharp.Views.Forms.dll
 /Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Core.dll
 /Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.dll
 /Users/kingsley/Desktop/TrialAss2/TrialAss2.Android/obj/Debug/android/assets/System.Numerics.dll

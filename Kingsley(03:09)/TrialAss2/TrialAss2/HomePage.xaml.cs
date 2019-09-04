@@ -6,7 +6,7 @@ using SkiaSharp.Views.Forms;
 
 namespace TrialAss2
 {
-    public partial class HomePage : ContentPage
+    public partial class HomePage
     {
         public IList<WeeklyDates> weeklydates = new List<WeeklyDates>();
 
@@ -26,7 +26,7 @@ namespace TrialAss2
 
             var canvasView = new SKCanvasView
             {
-                VerticalOptions= LayoutOptions.CenterAndExpand,
+                VerticalOptions = LayoutOptions.CenterAndExpand,
                 HeightRequest = 250
             };
             canvasView.PaintSurface += OnCanvasViewPaintSurface;
@@ -98,7 +98,16 @@ namespace TrialAss2
                 Today = "Today";
             }
 
+
+
             String Secday = _secday.DayOfWeek.ToString();
+            String Thday = _thday.DayOfWeek.ToString();
+            String Fofday = _fofday.DayOfWeek.ToString();
+            String Fifday = _fifday.DayOfWeek.ToString();
+            String Sixday = _sixday.DayOfWeek.ToString();
+            String Sevday = _sevday.DayOfWeek.ToString();
+
+
             if (Secday.Contains("Monday"))
             {
                 Secday = "Mon";
@@ -128,7 +137,7 @@ namespace TrialAss2
                 Secday = "Sun";
             }
 
-            String Thday = _thday.DayOfWeek.ToString();
+
             if (Thday.Contains("Monday"))
             {
                 Thday = "Mon";
@@ -158,7 +167,7 @@ namespace TrialAss2
                 Thday = "Sun";
             }
 
-            String Fofday = _fofday.DayOfWeek.ToString();
+
             if (Fofday.Contains("Monday"))
             {
                 Fofday = "Mon";
@@ -188,7 +197,7 @@ namespace TrialAss2
                 Fofday = "Sun";
             }
 
-            String Fifday = _fifday.DayOfWeek.ToString();
+
             if (Fifday.Contains("Monday"))
             {
                 Fifday = "Mon";
@@ -218,7 +227,7 @@ namespace TrialAss2
                 Fifday = "Sun";
             }
 
-            String Sixday = _sixday.DayOfWeek.ToString();
+
             if (Sixday.Contains("Monday"))
             {
                 Sixday = "Mon";
@@ -248,7 +257,7 @@ namespace TrialAss2
                 Sixday = "Sun";
             }
 
-            String Sevday = _sevday.DayOfWeek.ToString();
+
             if (Sevday.Contains("Monday"))
             {
                 Sevday = "Mon";
@@ -273,11 +282,10 @@ namespace TrialAss2
             {
                 Sevday = "Sat";
             }
-            else if (Fifday.Contains("Sunday"))
+            else if (Sevday.Contains("Sunday"))
             {
                 Sevday = "Sun";
             }
-
 
 
             var fir = new Label
@@ -316,13 +324,11 @@ namespace TrialAss2
                 HorizontalTextAlignment = TextAlignment.Center
             };
 
-
-
             var today = new Label
             {
                 Text = start.Day.ToString(),
                 HorizontalTextAlignment = TextAlignment.Center,
-                
+
             };
             var secondy = new Label
             {
@@ -355,8 +361,6 @@ namespace TrialAss2
                 HorizontalTextAlignment = TextAlignment.Center
             };
             //Weekly Date time finish
-
-
 
 
             Content = new StackLayout
@@ -395,7 +399,7 @@ namespace TrialAss2
                                     {
                                         Orientation = StackOrientation.Vertical,
                                         WidthRequest = 100,
-                                        
+
 
                                         Children =
                                         {
@@ -447,7 +451,7 @@ namespace TrialAss2
                                             fifth,
                                         }
                                     },
-                                    
+
                                     new StackLayout
                                     {
                                         Orientation = StackOrientation.Vertical,
@@ -474,7 +478,7 @@ namespace TrialAss2
                             },
                             new StackLayout
                             {
-                                
+
                                 HeightRequest = 250,
                                 Children =
                                 {
