@@ -3,10 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              x:Class="TrialAss2.RecordPage"
              xmlns:controls="clr-namespace:XamForms.Controls;assembly=XamForms.Controls.Calendar">
-    <ContentPage.Content>
-<!-- Top Navigation       -->
-    <StackLayout Padding="20,90,20,20">
-            <controls:Calendar x:Name="calendar"
+<!-- Top Navigation  - calendar     -->
+    <StackLayout>
+        <controls:Calendar x:Name="calender"
                            Padding="10,0,10,0"
                            SelectedBorderWidth="4"
                            DisabledBorderColor="Black"
@@ -17,16 +16,12 @@
                            TitleLeftArrowTextColor="Blue"
                            WeekdaysFontSize="12"
                            SelectedDate="{Binding Date}"
-                           SpecialDates="{Binding Workout}"
-                           DateCommand="{Binding DateChosen}" />
-            </StackLayout>
+                           SpecialDates="{Binding Workout}"/>
+    </StackLayout>
 <!--  Show detail refrence      -->
-        <StackLayout>
-        <Label Text="Predication"/>
-            <Label Text="oval"/>
-            
-        </StackLayout>
+    <StackLayout>
+        
+    </StackLayout>
 <!--   Recoding      -->
-    </ContentPage.Content>
 </ContentPage>
     

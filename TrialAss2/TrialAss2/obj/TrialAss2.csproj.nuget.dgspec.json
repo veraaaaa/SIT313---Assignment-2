@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj": {}
-  },
-  "projects": {
-    "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj",
-        "projectName": "TrialAss2",
-        "projectPath": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj",
-        "packagesPath": "/Users/kingsley/.nuget/packages/",
-        "outputPath": "/Users/kingsley/Documents/GitHub/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/",
-=======
     "/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/TrialAss2.csproj",
         "packagesPath": "/Users/vera/.nuget/packages/",
         "outputPath": "/Users/vera/Desktop/SIT313/Assignment 2/SIT313---Assignment-2/TrialAss2/TrialAss2/obj/",
->>>>>>> d6ef4ea0c6cb3e33e0a84109a0dfe9ead6e9d3eb
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -58,6 +44,14 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            },
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[1.68.0, )"
             },
             "XamForms.Controls.Calendar": {
               "target": "Package",
