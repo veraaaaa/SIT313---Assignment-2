@@ -15,9 +15,89 @@ namespace TrialAss2
         public RecordPage()
         {
             InitializeComponent();
-            var Dates = new List<SpecialDate>();
-            NavigationPage.SetHasNavigationBar(this, false);
-            DateTime testdate = new DateTime(2018, 06, 26);
+            //calendar display
+            Calendar calendar = new Calendar
+            {
+                SelectedDate = DateTime.Now,
+                SelectedBorderColor = Color.Red,
+            };
+            Content = new StackLayout
+            {
+                Orientation = StackOrientation.Vertical,
+                FlowDirection = FlowDirection.LeftToRight,
+                //Display calendar
+                Children =
+                {
+                    calendar,
+                    //record start date
+                    new StackLayout
+                {
+                    Orientation = StackOrientation.Horizontal,
+                    HeightRequest = 30,
+                     Children =
+                        {
+                            new Image
+                            {
+                                Source = "start.png"
+                            },
+                            new Label
+                            {
+                                Text = "Start"
+                            },
+                            new Switch
+                            {
+                                IsToggled = true
+                            },
+                        }
+                },
+                    //record finish date
+                    new StackLayout
+                    {
+                        Orientation = StackOrientation.Horizontal,
+                        HeightRequest = 30,
+                        Children =
+                        {
+                            new Image
+                            {
+                                Source = "finish.png"
+                            },
+                            new Label
+                            {
+                                Text = "Finish"
+                            },
+                            new Switch
+                            {
+                                IsToggled=true
+                            },
+                        }
+
+                    },
+                    //record detail
+                    new StackLayout
+                    {
+                        Orientation = StackOrientation.Horizontal,
+                        HeightRequest = 30,
+                        Children =
+                        {
+                            new Image
+                            {
+                                Source = "analyse.png"
+                            },
+                            new Label
+                            {
+                                Text = "Detail"
+                            },
+                            new ImageButton
+                            {
+                                Source = "next.png"
+                            },
+                        }
+                    },
+
+                },
+
+            };
+
         }
     }
 }

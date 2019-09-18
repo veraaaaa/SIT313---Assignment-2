@@ -12,16 +12,20 @@ namespace TrialAss2
 {
     public partial class Details : ContentPage
     {
+        public static List<CustomerInfo> CustomerInfo = new List<CustomerInfo>();
+        public static CustomerInfo customerInfo = new CustomerInfo();
+
         public Details()
         {
             InitializeComponent();
 
             var Age = new Label();
+            var Date = new DateTime();
 
             var picker = new Picker
             {
                 Title = "",
-                WidthRequest = 25,
+                WidthRequest = 35,
                 FontSize = 15,
                 Margin = new Thickness(100, 22, 20, 0)
 
@@ -39,12 +43,14 @@ namespace TrialAss2
 
                 }
                 picker.TextColor = Color.DarkRed;
+                customerInfo.Age = Age.Text;
+                CustomerInfo.Add(customerInfo);
             };
 
             var picker2 = new Picker
             {
                 Title = "",
-                WidthRequest = 25,
+                WidthRequest = 35,
                 FontSize = 15,
                 Margin = new Thickness(100, 22, 20, 0)
 
@@ -62,12 +68,14 @@ namespace TrialAss2
 
                 }
                 picker2.TextColor = Color.DarkRed;
+                customerInfo.CycleDay = Age.Text;
+                CustomerInfo.Add(customerInfo);
             };
 
             var picker3 = new Picker
             {
                 Title = "",
-                WidthRequest = 25,
+                WidthRequest = 35,
                 FontSize = 15,
                 Margin = new Thickness(100, 22, 20, 0)
 
@@ -82,19 +90,26 @@ namespace TrialAss2
                 if (selectedIndex != -1)
                 {
                     Age.Text = picker3.Items[selectedIndex];
-
                 }
                 picker3.TextColor = Color.DarkRed;
+                customerInfo.MenstrualDay = Age.Text;
+                CustomerInfo.Add(customerInfo);
             };
 
             DatePicker datePicker = new DatePicker
             {
                 MinimumDate = new DateTime(1, 1, 1),
                 MaximumDate = new DateTime(9999, 12, 31),
-                Date = DateTime.Now,
                 TextColor = Color.DarkRed,
                 Margin = new Thickness(50, 22, 20, 0),
+                Format = "dd / MMM / yyyy",
             };
+            datePicker.DateSelected += (sender, e) =>
+            {
+                customerInfo.LmenstrualDay = datePicker.Date;
+                CustomerInfo.Add(customerInfo);
+            };
+
             var Button = new Button
             {
                 Text = "Next Step",
@@ -119,8 +134,8 @@ namespace TrialAss2
             Content = new StackLayout
             {
                 Orientation = StackOrientation.Vertical,
-                HeightRequest=300,
-                Spacing=20,
+                HeightRequest = 300,
+                Spacing = 20,
 
                 Children =
                 {
@@ -221,7 +236,12 @@ namespace TrialAss2
         }
         async void ButtonClicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new HomePage());
+            var tabbedpage = new TabbedPage();
+            tabbedpage.Children.Add(new HomePage { Title = "HomePage" });
+            tabbedpage.Children.Add(new RecordPage { Title = "Calendar" });
+            tabbedpage.Children.Add(new Profile { Title = "Profile" });
+
+            await Navigation.PushAsync(tabbedpage);
         }
     }
 }
