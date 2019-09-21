@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="TrialAss2.AddPostPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Editor x:Name="title" Placeholder="Enter a title for you post" Text="{Binding title}"/>
+            <Editor x:Name="content" Placeholder="enter your post here" Text="{Binding Content}"/>
+            <Button Text="Cancel" Clicked="cancelBtn_clicked"/>
+            <Button Text="Submit" Clicked="submitBtn_clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
