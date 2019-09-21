@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{162F57BD-4E40-470B-A4D0-11FF76EA4430}|Default">
+  <MonoDevelop.Ide.ItemProperties.TrialAss2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8B5E18F2-057C-427C-B3DB-D95BF9F8A56D" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrialAss2/HomePage.xaml.cs">
+    <Files>
+      <File FileName="TrialAss2/HomePage.xaml.cs" Line="32" Column="39" />
+      <File FileName="TrialAss2/AddPostPage.xaml.cs" Line="67" Column="36" />
+      <File FileName="TrialAss2/Details.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrialAss2" expanded="True">
+            <Node name="TrialAss2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="AddPostPage.xaml" expanded="True" />
+              <Node name="CalendarPage.xaml" expanded="True" />
+              <Node name="Details.xaml" expanded="True" />
+              <Node name="HomePage.xaml" expanded="True">
+                <Node name="HomePage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="Profile.xaml" expanded="True" />
+            </Node>
+            <Node name="TrialAss2.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TrialAss2.Android PreferredExecutionTarget="Android.my_device1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ConsoleApp1/Deposit.cs" line="17" offsetX="-1" offsetY="-1" expression="dm.Money" liveUpdate="False" />
+    <Watch file="../../../../ConsoleApp1/Deposit.cs" line="11" offsetX="-1" offsetY="-1" expression="dm" liveUpdate="False" />
+    <Watch file="../../../../KK_MEL_Banking/KK_MEL_Banking/Deposit.cs" line="6" offsetX="-1" offsetY="-1" expression="customerlist[0].Balance" liveUpdate="False" />
+    <Watch file="../../../TrialAss2/HomePage.xaml.cs" line="55" offsetX="-1" offsetY="-1" expression="listDays[0].DayOfWeek" liveUpdate="False" />
+    <Watch file="../../../TrialAss2/HomePage.xaml.cs" line="55" offsetX="-1" offsetY="-1" expression="listDays[0].DayOfWeek" liveUpdate="False" />
+    <Watch file="../../../TrialAss2/HomePage.xaml.cs" line="55" offsetX="-1" offsetY="-1" expression="listDays" liveUpdate="False" />
+    <Watch file="../../../TrialAss2/CalendarPage.xaml.cs" line="32" offsetX="-1" offsetY="-1" expression="i" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
