@@ -10,7 +10,7 @@ namespace Assignment2
         {
             InitializeComponent();
 
-            MainPage = new HomePage();
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()
