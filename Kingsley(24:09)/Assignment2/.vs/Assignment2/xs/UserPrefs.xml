@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C64131C5-AB3C-48B8-825C-CA764717EDFF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment2/ProfilePage.xaml.cs">
+    <Files>
+      <File FileName="Assignment2/AboutUsPage.xaml.cs" Line="35" Column="75" />
+      <File FileName="Assignment2/Features.txt" Line="7" Column="1" />
+      <File FileName="Assignment2/ProfilePage.xaml.cs" Line="195" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment2" expanded="True">
+            <Node name="Assignment2" expanded="True">
+              <Node name="AboutUsPage.xaml" expanded="True" />
+              <Node name="ProfilePage.xaml" expanded="True">
+                <Node name="ProfilePage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assignment2.Android PreferredExecutionTarget="Android.my_device1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assignment2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3C4E78DC-9EAF-4CCC-B6F9-A57140805B90" />
+</Properties>
