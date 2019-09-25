@@ -4,6 +4,8 @@ using Xamarin.Forms;
 using SkiaSharp;
 using SkiaSharp.Views.Forms;
 using System.Collections.ObjectModel;
+using System.Collections;
+using System.Windows.Input;
 
 namespace Assignment2
 {
@@ -18,10 +20,13 @@ namespace Assignment2
             Post newpost = new Post();
             TextCell textcell = new TextCell
             {
+                TextColor = Color.Black,
                 Text = listview.PostTitle,
                 Detail = listview.PostContent,
+                DetailColor = Color.Black,
+                Height = 100,
             };
-
+            //textcell.Tapped += textcell_Tapped;
 
             var searchBar = new SearchBar
             {
@@ -29,34 +34,20 @@ namespace Assignment2
                 BackgroundColor = Color.GhostWhite,
 
             };
+            searchBar.SearchButtonPressed += searchPressed;
             var canvasView = new SKCanvasView
             {
                 VerticalOptions = LayoutOptions.CenterAndExpand,
                 HeightRequest = 250
             };
-            canvasView.PaintSurface += OnCanvasViewPaintSurface;
-
-            void OnCanvasViewPaintSurface(object sender, SKPaintSurfaceEventArgs args)
+            ImageButton imageButton = new ImageButton
             {
-                var info = args.Info;
-                var surface = args.Surface;
-                var canvas = surface.Canvas;
-
-
-                canvas.Clear();
-
-                var paint = new SKPaint
-                {
-                    Style = SKPaintStyle.Stroke,
-                    Color = Color.Red.ToSKColor(),
-                    StrokeWidth = 25
-                };
-                canvas.DrawCircle(info.Width / 2, info.Height / 2, 200, paint);
-
-                paint.Style = SKPaintStyle.Fill;
-                paint.Color = SKColors.Blue;
-                canvas.DrawCircle(info.Width / 2, info.Height / 2, 100, paint);
-            }
+                Source = "bianji.png",
+                BackgroundColor = Color.Transparent,
+                HorizontalOptions = LayoutOptions.Center,
+                VerticalOptions = LayoutOptions.CenterAndExpand
+            };
+            imageButton.Clicked += ButtonClicked;
 
             //Weekly Datetime setup
             var start = DateTime.Now;
@@ -485,7 +476,7 @@ namespace Assignment2
                                 HeightRequest = 250,
                                 Children =
                                 {
-                                    canvasView,
+                                    imageButton
                                 }
                             },
 
@@ -493,7 +484,6 @@ namespace Assignment2
                     },
                     new TableView
                     {
-
                         Intent = TableIntent.Form,
                         Root = new TableRoot
                         {
@@ -505,6 +495,16 @@ namespace Assignment2
                     }
                 }
             };
+        }
+
+        async void searchPressed(object sender, EventArgs e)
+        {
+            SearchBar searchBar = (SearchBar)sender;
+        }
+
+        async void ButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new AddPostPage());
         }
     }
  }

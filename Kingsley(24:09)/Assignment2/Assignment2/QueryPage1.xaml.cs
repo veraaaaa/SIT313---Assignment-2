@@ -27,23 +27,23 @@ namespace Assignment2
             multiSelectListItems = new ObservableCollection<ListItem>();
             multiSelectListItems.Add(new ListItem()
             {
-                CheckboxImage = "https://freeicons.io/laravel/public/uploads/icons/png/12090335861556281944-512.png",
-                ItemImage = "https://images-na.ssl-images-amazon.com/images/I/31tuF1Y%2Bg6L.png",
+                CheckboxImage = "Checkbox.png",
+                ItemImage = "Health.png",
                 ItemName = "Manage Peroid"
 
             });
 
             multiSelectListItems.Add(new ListItem()
             {
-                CheckboxImage = "https://freeicons.io/laravel/public/uploads/icons/png/12090335861556281944-512.png",
-                ItemImage = "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/fa/e5/85/fae585f6-e1b1-aa83-2a28-7008c247103c/source/512x512bb.jpg",
+                CheckboxImage = "Checkbox.png",
+                ItemImage = "pregnancy.png",
                 ItemName = "Pregnancy Preparation"
             });
 
             multiSelectListItems.Add(new ListItem()
             {
-                CheckboxImage = "https://freeicons.io/laravel/public/uploads/icons/png/12090335861556281944-512.png",
-                ItemImage = "https://imagev2.xmcdn.com/group53/M0B/63/18/wKgLfFwlsO3Rg1NHAAA_Tb9bXAI457.jpg",
+                CheckboxImage = "Checkbox.png",
+                ItemImage = "gender.png",
                 ItemName = "Gender Health"
 
             });
@@ -55,7 +55,7 @@ namespace Assignment2
             _isSelectedItemTap = true;
             _selectedItemIndex = multiSelectListItems.IndexOf((ListItem)args.SelectedItem);
 
-            multiSelectListItems[_selectedItemIndex].CheckboxImage = multiSelectListItems[_selectedItemIndex].CheckboxImage.Equals("https://freeicons.io/laravel/public/uploads/icons/png/12090335861556281944-512.png") ? "https://cdn0.iconfinder.com/data/icons/ui-22/24/174-512.png" : "https://freeicons.io/laravel/public/uploads/icons/png/12090335861556281944-512.png";
+            multiSelectListItems[_selectedItemIndex].CheckboxImage = multiSelectListItems[_selectedItemIndex].CheckboxImage.Equals("Checkbox.png") ? "Confirm.png" : "Checkbox.png";
 
         }
 
@@ -64,7 +64,7 @@ namespace Assignment2
             if (!_isSelectedItemTap && null != itemTappedEventArgs.Item)
             {
                 multiSelectListItems.IndexOf((ListItem)itemTappedEventArgs.Item);
-                multiSelectListItems[_selectedItemIndex].CheckboxImage = multiSelectListItems[_selectedItemIndex].CheckboxImage.Equals("https://freeicons.io/laravel/public/uploads/icons/png/12090335861556281944-512.png") ? "https://cdn0.iconfinder.com/data/icons/ui-22/24/174-512.png" : "https://freeicons.io/laravel/public/uploads/icons/png/12090335861556281944-512.png";
+                multiSelectListItems[_selectedItemIndex].CheckboxImage = multiSelectListItems[_selectedItemIndex].CheckboxImage.Equals("Confirm.png") ? "Checkbox.png" : "Checkbox.png";
 
             }
             MultiSelectListView.ItemsSource = null;

@@ -16,7 +16,7 @@
                    HeightRequest="54"
                    WidthRequest="350"
                    HorizontalTextAlignment="Center"
-                   Text="We are caring about you (Multiple choise)!!"
+                   Text="We care about you"
                    FontSize="15"
                    TextColor="Black"
                    HorizontalOptions="CenterAndExpand" />

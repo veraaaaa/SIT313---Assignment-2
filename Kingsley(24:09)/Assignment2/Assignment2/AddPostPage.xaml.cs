@@ -49,20 +49,33 @@ namespace Assignment2
             cancelBtn.Clicked += cancelBtn_clicked;
             SubmitBtn.Clicked += submitBtn_clicked;
 
-            void cancelBtn_clicked(object sender, System.EventArgs e)
+            async void cancelBtn_clicked(object sender, System.EventArgs e)
             {
                 postcontent.Text = "";
                 posttitle.Text = "";
-
+                await DisplayAlert("Alert", "Are you sure to give up current edit context", "Confirm");
             }
             async void submitBtn_clicked(object sender, System.EventArgs e)
             {
+                //Post _post = new Post();
+                //_post.PostContent = postcontent.Text;
+                //_post.PostTitle = posttitle.Text;
+                //post = _post;
+                //postlist.Add(post);
+                //await Navigation.PushAsync(new HomePage());
                 Post _post = new Post();
                 _post.PostContent = postcontent.Text;
                 _post.PostTitle = posttitle.Text;
                 post = _post;
                 postlist.Add(post);
-                await Navigation.PushAsync(new HomePage());
+                var tabbedpage = new TabbedPage();
+                tabbedpage.Children.Add(new HomePage { Title = "HomePage" });
+                tabbedpage.Children.Add(new CalendarPage { Title = "Calendar" });
+                tabbedpage.Children.Add(new AddPostPage { Title = "Post" });
+                tabbedpage.Children.Add(new ProfilePage { Title = "Profile" });
+
+                await Navigation.PushAsync(tabbedpage);
+                await DisplayAlert("congratulation", "You have successfully submit you post", "Okay");
             }
 
             Content = new StackLayout
