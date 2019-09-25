@@ -42,6 +42,13 @@ What we Have done this week:
 What we plan to do next week:  
 1: Continue work on the posting blog function  (espically transfer information from  abd display on the the new section)  
 2: Continue work on the display data function  
-3: Add in finished icon and other additional material that make the app look like a proper developed app
+3: Add in finished icon and other additional material that make the app look like a proper developed app  
+
+Last Week Update  
+What we Have done this week:  
+1: Update all the function  
+2: Replace all the image needed within the app  
+3: Fix any last minitue errors
+
 
 
