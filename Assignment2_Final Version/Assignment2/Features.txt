@@ -1,0 +1,15 @@
+﻿Student Details:
+1. Name: Junjie Gong
+   Student ID: 215062392
+
+2. Name: Yuwei Wang
+   Student ID: 217358411
+
+
+Women Care Features:
+1.  Database
+2.  Login Page (Email varification and Password varification)
+3.  Post Page (Post content wish to let other to see)
+4.  Record menstrual day and other related problem occurs
+5.  View each day's body condition
+6.  Search engine
