@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using Xamarin.Forms;
 using SkiaSharp;
@@ -18,6 +18,7 @@ namespace Assignment2
         {
             InitializeComponent();
             Post newpost = new Post();
+           
             TextCell textcell = new TextCell
             {
                 TextColor = Color.Black,
@@ -26,6 +27,11 @@ namespace Assignment2
                 DetailColor = Color.Black,
                 Height = 100,
             };
+            foreach(var i in postlist)
+            {
+                textcell.Text = i.PostTitle;
+                textcell.Detail = i.PostContent;
+            }
             //textcell.Tapped += textcell_Tapped;
 
             var searchBar = new SearchBar

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using Xamarin.Forms;
@@ -57,13 +57,38 @@ namespace Assignment2
             }
             async void submitBtn_clicked(object sender, System.EventArgs e)
             {
-                //Post _post = new Post();
-                //_post.PostContent = postcontent.Text;
-                //_post.PostTitle = posttitle.Text;
-                //post = _post;
-                //postlist.Add(post);
-                //await Navigation.PushAsync(new HomePage());
-                Post _post = new Post();
+                var title = posttitle.Text;
+                var content = postcontent.Text;
+                bool _exist = false;
+
+                foreach(var i in postlist)
+                {
+                    if (i.PostContent.Equals(title))
+                    {
+                        _exist = true;
+                        break;
+                    }
+                }
+                if (_exist)
+                {
+                    await DisplayAlert("Alert", "Your title name has existed, please try another new one", "Okay");
+                }
+                else
+                {
+                    Post _post = new Post();
+                    _post.PostContent = title;
+                    _post.PostTitle = content;
+                    post = _post;
+                    postlist.Add(post);
+                    var tabbedpage = new TabbedPage();
+                    tabbedpage.Children.Add(new HomePage { Title = "HomePage" });
+                    tabbedpage.Children.Add(new CalendarPage { Title = "Calendar" });
+                    tabbedpage.Children.Add(new AddPostPage { Title = "Post" });
+                    tabbedpage.Children.Add(new ProfilePage { Title = "Profile" });
+
+                    await Navigation.PushAsync(tabbedpage);
+                    await DisplayAlert("congratulation", "You have successfully submit you post", "Okay");
+                /*Post _post = new Post();
                 _post.PostContent = postcontent.Text;
                 _post.PostTitle = posttitle.Text;
                 post = _post;
@@ -75,7 +100,7 @@ namespace Assignment2
                 tabbedpage.Children.Add(new ProfilePage { Title = "Profile" });
 
                 await Navigation.PushAsync(tabbedpage);
-                await DisplayAlert("congratulation", "You have successfully submit you post", "Okay");
+                await DisplayAlert("congratulation", "You have successfully submit you post", "Okay");*/
             }
 
             Content = new StackLayout
